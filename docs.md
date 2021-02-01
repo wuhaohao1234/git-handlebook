@@ -16,3 +16,7 @@
     docs: 修改文本
     Refactor: 重构
 4. `git push origin 分支名称` 将缓存区代码提交到远程
+
+5. `git stash` 将文件添加到管道
+
+6. `git stash pop` 将管道文件释放
